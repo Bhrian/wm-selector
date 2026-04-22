@@ -234,6 +234,13 @@
       ]
     }
   },
+  "Orc General": {
+      "order": 9,
+      "text": [
+        "Once per game, at any point in the Command Phase, the Orc General whip his troops and force them forwards. For the remainder of that Command phase, the Orc General ignores the Command Penalty for having an enemy within 20cm of a unit."
+      ]
+    }
+  },
   "spells": [
     {
       "name": "Foot of Gork",
